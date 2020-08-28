@@ -1,0 +1,22 @@
+{
+  "name": "homework_express_react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "art-template": "^4.13.2",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "express-art-template": "^1.0.1",
+    "pug": "^2.0.4",
+    "request": "^2.88.2",
+    "serve-favicon": "^2.5.0"
+  }
+}

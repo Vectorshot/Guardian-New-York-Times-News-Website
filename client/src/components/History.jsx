@@ -1,0 +1,1 @@
+import {createHashHistory} from 'history'
